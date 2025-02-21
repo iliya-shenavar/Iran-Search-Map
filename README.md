@@ -21,6 +21,10 @@ Simply clone the repository and open `index.html` in a browser:
 - Darker green shades indicate higher search intensity.
 - Hovering over a province displays its name and value.
 
+## Live Demo
+You can view the live version of this project here:
+[Live Demo](https://iliya-shenavar.github.io/Iran-Search-Map/)
+
 ## Dependencies
 - [Highcharts Maps](https://www.highcharts.com/products/maps/)
 - Iran's map data from Highcharts
