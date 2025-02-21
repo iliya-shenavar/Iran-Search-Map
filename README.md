@@ -15,7 +15,7 @@ An interactive **Highcharts** map visualizing search intensity across Iran's pro
 ## 📥 Installation
 Clone the repository and open `index.html` in a browser:
 ```sh
- git clone https://github.com/your-username/Iran-Search-Map.git
+ git clone https://github.com/iliya-shenavar/Iran-Search-Map.git
  cd Iran-Search-Map
  open index.html
 ```
