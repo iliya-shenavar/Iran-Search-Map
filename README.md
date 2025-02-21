@@ -23,7 +23,7 @@ Simply clone the repository and open `index.html` in a browser:
 
 ## Live Demo
 You can view the live version of this project here:
-[Live Demo](https://iliya-shenavar.github.io/Iran-Search-Map/)
+[Live Demo](https://iliya-shenavar.github.io/Iran-Search-Map/index.html)
 
 ## Dependencies
 - [Highcharts Maps](https://www.highcharts.com/products/maps/)
